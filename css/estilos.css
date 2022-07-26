@@ -4,3 +4,19 @@ body{
     color:blueviolet;
     background-color:aliceblue;
 }
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid royalblue;
+    margin: 0 auto;
+    border-radius: 1em;
+}
+#container h1{
+    font-size: 20px;
+
+}
+#container p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
