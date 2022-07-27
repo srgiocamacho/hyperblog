@@ -18,7 +18,11 @@ body{
 }
 #container p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+<<<<<<< HEAD
     color: royalblue;
+=======
+    color: pink;
+>>>>>>> cabecera
 }
 #cabecera{
     background: royalblue;
