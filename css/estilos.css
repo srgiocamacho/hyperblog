@@ -1,8 +1,11 @@
 body{
     text-align: center;
     font-family: "Arial";
-    color:blueviolet;
-    background-color:aliceblue;
+    color: #333;
+    background: #1e1f24;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 #container{
     width: 70%;
@@ -33,4 +36,8 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 
+}
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
