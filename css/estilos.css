@@ -32,5 +32,13 @@ body{
     margin: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
-
+}
+#footer {
+    background: black;
+    margin: 0;
+    font-style: oblique;
+    border-radius: .5rem;
+    padding: 0;
+    color: aqua;
+    text-align: center;
 }
