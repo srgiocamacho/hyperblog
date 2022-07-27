@@ -23,3 +23,8 @@ body{
 #cabecera {
     text-align: center;
 }
+#prueba{
+    text-align: right;
+    color: green;
+    font-style: italic;
+}
